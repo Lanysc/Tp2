@@ -1,0 +1,11 @@
+cliente.o
+clientepersistencia.o
+ldec.o
+main.o
+mainwindow.o
+no.o
+pedido.o
+pedidopersistencia.o
+produto.o
+produtopersistencia.o
+moc_mainwindow.o
